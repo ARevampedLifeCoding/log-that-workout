@@ -1,8 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 //Middle wear 
-const logger = require("morgan");
-const uri = process.env.MONGODB_URI;
+const logger = require("morgan");1
 const PORT = process.env.PORT || 3001;
 
 const app = express();
