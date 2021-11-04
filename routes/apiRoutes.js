@@ -1,3 +1,4 @@
+//Adding all the required files
 const router = require("express").Router();
 const { Workout } = require("../models");
 
