@@ -1,0 +1,20 @@
+{
+  "name": "log-that-workout",
+  "version": "1.0.0",
+  "description": "\\# Unit 18 Nosql Homework: Workout Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARevampedLifeCoding/log-that-workout.git"
+  },
+  "author": "Randy Langston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARevampedLifeCoding/log-that-workout/issues"
+  },
+  "homepage": "https://github.com/ARevampedLifeCoding/log-that-workout#readme"
+}
