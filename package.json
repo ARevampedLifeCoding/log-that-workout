@@ -18,10 +18,7 @@
     "mongodb": "^4.1.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  },
-  "bugs": {
-    "url": "https://github.com/ARevampedLifeCoding/log-that-workout/issues"
-  },
-  "homepage": "https://github.com/ARevampedLifeCoding/log-that-workout#readme"
+  }
+  
 }
 
