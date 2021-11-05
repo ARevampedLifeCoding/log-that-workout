@@ -16,6 +16,7 @@ This app gives you the ablity to log and keep trak of your daily workout
 
 ## Instructions
 Logging daily workouts
+[Log that workout](https://log-that-workout.herokuapp.com/)
 ## Credits
 ![log that work out](/img.png)
 ## License
